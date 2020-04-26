@@ -1,6 +1,6 @@
 # growth mindset approach
 ### 1.challenges
-it is first step of way to get groth mindset
+it is first step of way to get groth mindset we should go through it
 
 ### 2.obstacles
 this road will faced all people but growth mindset tell us 
@@ -17,7 +17,10 @@ here we must abandon the character of jealousy from others because
 their success in my success
 and success in their success
 
-
+I want to tell you how i keep myself in a growth mindset
+1.i am wake up everyday and search about learning
+ because it is **key to success**
+2.always tell myself when i *gain* will forgot the pain
 
 
 [and here my profile](https://github.com/yazan-alshekha)
