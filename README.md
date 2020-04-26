@@ -18,9 +18,9 @@ their success in my success
 and success in their success
 
 I want to tell you how i keep myself in a growth mindset
-1.i am wake up everyday and search about learning
+ 1. i am wake up everyday and search about learning
  because it is **key to success**
-2.always tell myself when i *gain* will forgot the pain
+ 2. always tell myself when i *gain* will forgot the pain
 
 
 [and here my profile](https://github.com/yazan-alshekha)
