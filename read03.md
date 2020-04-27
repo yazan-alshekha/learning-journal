@@ -1,4 +1,4 @@
-# Git Tutorial: A Comprehensive Guide
+# Git Tutorial 
 
 solid understanding of the [__Command Line__ ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is required befor beginning this tutorial **Recommended**.
 
@@ -14,13 +14,13 @@ A LVCS entails one database on your hard disk that stores changes to files.
 
 
 
-### Centralized Version Control (CVCS):
+### Centralized Version Control:
 
 
-![CVCS](https://www.edureka.co/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka.png)
+![cvcs](https://www.edureka.co/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka.png)
 
-This system entails a **single server** storing all changes and file versions, which **can be accessed by various clients**.
-which eliminates the need to involve all ~~local databases~~ and allowe programmers to have more knowledge of team members’ activitie
+This system entails a *single server* storing all changes and file versions, which *can be accessed by various clients*.
+which eliminates the need to involve all local databases and allowe programmers to have more knowledge of team members’ activitie
 
 The need for collaboration within a developer team on 
 a single file or set of files led to the advent of 
@@ -46,11 +46,11 @@ If the file has not changed, Git only stores a reference to the already-stored i
 
 
 ## Three States of Git's File
-+ Committed
+1. Committed
     -  Data is securely stored in a local database
-+ Modefied
+2. Modefied
     - File has been changed but not committed to the database
-+ staged
+3. staged
     - Flagged a file’s changed version to be committed in the next snapshot
 
 ## Setting up a Git Repository
