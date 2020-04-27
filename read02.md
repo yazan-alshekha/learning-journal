@@ -14,7 +14,7 @@ The command line is an interesting beast, and if you've not used one before
  Experiment until you find the setup that suits you best.
  As an example I will typically have 3 terminals open: 1 in which I do my working, another to bring up ancilliary data and a final one for viewing Manual pages 
  
- ## Here is the general features that help you enjoy coding:
+## Here is the general features that help you enjoy coding:
 - code completion
 - syntax highlighting
 - nice variety of themes
