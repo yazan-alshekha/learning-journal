@@ -17,7 +17,7 @@ A LVCS entails one database on your hard disk that stores changes to files.
 ### Centralized Version Control (CVCS):
 
 
-!CVCS](https://www.edureka.co/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka.png "CVCS")
+![CVCS](https://www.edureka.co/blog/wp-content/uploads/2016/11/Centralized-Version-Control-System-Workflow-What-Is-Git-Edureka.png)
 
 This system entails a **single server** storing all changes and file versions, which **can be accessed by various clients**.
 which eliminates the need to involve all ~~local databases~~ and allowe programmers to have more knowledge of team members’ activitie
