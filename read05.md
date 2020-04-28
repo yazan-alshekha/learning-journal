@@ -19,8 +19,9 @@ background-color: white;}
 ```
 3. also in optional CSS3 has introduced an extra value for RGB colors to
 indicate opacity. It is known as RGBA.
-*example*
+
+**example**
 ```
 p {
-color: rgb(100,100,90);}
+color: rgb(100,100,90,50);}
 ```
